@@ -11,7 +11,7 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.optimizers import SGD
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
-file_path = ""
+file_path = "/Users/arnavkarnik/Documents/Recognition-of-Medicinal-Plant-Species-Deep-Learning-Project--Sem6/Medicinal Leaf Dataset/Segmented Medicinal Leaf Images/"
 
 # Enable GPU memory growth
 gpus = tf.config.experimental.list_physical_devices('GPU')
