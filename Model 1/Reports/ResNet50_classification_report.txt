@@ -1,0 +1,36 @@
+                                              precision    recall  f1-score   support
+
+                     Alpinia Galanga (Rasna)       0.00      0.00      0.00        10
+            Amaranthus Viridis (Arive-Dantu)       0.00      0.00      0.00        24
+        Artocarpus Heterophyllus (Jackfruit)       0.00      0.00      0.00        11
+                   Azadirachta Indica (Neem)       0.12      0.17      0.14        12
+                       Basella Alba (Basale)       0.00      0.00      0.00        20
+            Brassica Juncea (Indian Mustard)       0.00      0.00      0.00         6
+                  Carissa Carandas (Karanda)       0.00      0.00      0.00        14
+                        Citrus Limon (Lemon)       0.00      0.00      0.00        11
+             Ficus Auriculata (Roxburgh fig)       0.00      0.00      0.00        10
+               Ficus Religiosa (Peepal Tree)       0.00      0.00      0.00        12
+                      Hibiscus Rosa-sinensis       0.05      0.12      0.07         8
+                          Jasminum (Jasmine)       0.03      0.07      0.04        14
+                    Mangifera Indica (Mango)       0.00      0.00      0.00        12
+                               Mentha (Mint)       0.00      0.00      0.00        19
+                Moringa Oleifera (Drumstick)       0.15      0.20      0.17        15
+Muntingia Calabura (Jamaica Cherry-Gasagase)       0.00      0.00      0.00        11
+                    Murraya Koenigii (Curry)       0.00      0.00      0.00        12
+                  Nerium Oleander (Oleander)       0.09      0.08      0.09        12
+         Nyctanthes Arbor-tristis (Parijata)       0.17      0.25      0.20         8
+                  Ocimum Tenuiflorum (Tulsi)       0.00      0.00      0.00        10
+                         Piper Betle (Betel)       0.00      0.00      0.00         9
+      Plectranthus Amboinicus (Mexican Mint)       0.00      0.00      0.00         9
+             Pongamia Pinnata (Indian Beech)       0.00      0.00      0.00        12
+                     Psidium Guajava (Guava)       0.10      0.15      0.12        13
+               Punica Granatum (Pomegranate)       0.00      0.00      0.00        15
+                 Santalum Album (Sandalwood)       0.00      0.00      0.00        11
+                     Syzygium Cumini (Jamun)       0.00      0.00      0.00         7
+                Syzygium Jambos (Rose Apple)       0.04      0.09      0.06        11
+  Tabernaemontana Divaricata (Crape Jasmine)       0.00      0.00      0.00        11
+       Trigonella Foenum-graecum (Fenugreek)       0.03      0.14      0.05         7
+
+                                    accuracy                           0.04       356
+                                   macro avg       0.03      0.04      0.03       356
+                                weighted avg       0.03      0.04      0.03       356
