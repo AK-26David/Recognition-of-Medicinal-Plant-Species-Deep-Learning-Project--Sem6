@@ -94,8 +94,13 @@ pip install -r requirements.txt
 ✅ How to Run
 
 Clone the repo:
+
 git clone https://github.com/your-username/venation-plant-classification.git
+
 cd venation-plant-classification
+
 Download and place the dataset in the dataset/ folder following the folder-based structure.
+
 Launch the notebook:
+
 jupyter notebook final.ipynb
